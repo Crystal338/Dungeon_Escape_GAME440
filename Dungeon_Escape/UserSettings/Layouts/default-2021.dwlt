@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 492}
   m_MaxSize: {x: 18097, y: 14042}
   vertical: 0
-  controlID: 21
+  controlID: 84
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 27
+  controlID: 85
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 28
+  controlID: 86
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/LowPolyDungeonsLite/Prefabs
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/LowPolyDungeonsLite/Prefabs
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Crystal\Documents\GitHub\Dungeon_Escape_GAME440\Dungeon_Escape
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c25b0000
-    m_LastClickedID: 23490
-    m_ExpandedIDs: 00000000165a000000ca9a3b
+    scrollPos: {x: 0, y: 19}
+    m_SelectedIDs: 805a0000
+    m_LastClickedID: 23168
+    m_ExpandedIDs: 00000000725a00007a5a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000165a0000
+    m_ExpandedIDs: 00000000725a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: dec2ffffb2edffffd2eaffff6ee0ffff9cc0ffff4cb3ffff40b0ffff26aeffff24aeffff06abffff08abffffa2a9ffffa0a9ffff
-      m_LastClickedID: -22112
-      m_ExpandedIDs: 7cf1ffff34fbffff
+      m_SelectedIDs: 30f7ffff
+      m_LastClickedID: 0
+      m_ExpandedIDs: 36fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -591,7 +591,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 25.599998}
+      snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-transform-toolbar
@@ -790,11 +790,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.22931977, y: 0.750144, z: -0.32585585, w: -0.5278598}
     speed: 2
-    m_Value: {x: -0.22832727, y: 0.75167847, z: -0.3265225, w: -0.52557504}
+    m_Value: {x: -0.22930583, y: 0.7500984, z: -0.32583603, w: -0.52782774}
   m_Size:
     m_Target: 12.191323
     speed: 2
-    m_Value: 11.666338
+    m_Value: 12.191323
   m_Ortho:
     m_Target: 0
     speed: 2
