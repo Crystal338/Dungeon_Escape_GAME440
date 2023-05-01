@@ -2,13 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class Necromancer : MonoBehaviour
 {
-    private void OnCollisionEnter(Collision collision)
+    void OnCollisionEnter(Collision coll)
     {
-        if (collision.collider.CompareTag("Necromancer"))
+        if (coll.gameObject.tag == "Necromancer")
         {
-            Destroy(gameObject);
+            Application.Quit();
+
         }
     }
 
