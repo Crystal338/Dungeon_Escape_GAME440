@@ -4,14 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-<<<<<<< Updated upstream
-  - cauldron
-=======
+  - PotionRed
   - Cauldron
   - Potion
-  - PotionRed
   - PotionBlue
->>>>>>> Stashed changes
+  - Necromancer
   layers:
   - Default
   - TransparentFX
@@ -19,7 +16,7 @@ TagManager:
   - 
   - Water
   - UI
-  - Door
+  - 
   - 
   - 
   - 
