@@ -20,7 +20,7 @@ public class DoorAndKey : MonoBehaviour
         if (other.gameObject == key.gameObject)
         {
             hasKey = true;
-            Destroy(key.gameObject);
+            Destroy(door.gameObject);
             
         }
     }
